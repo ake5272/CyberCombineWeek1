@@ -1,5 +1,5 @@
 # CyberCombineWeek1
-A place for us to work on write ups for the week 1 homework:
+**Write-ups completed by Samuel Hayden, Aidan Benderly, Michael Guarino, and Anna Elder.**
 
 All Season II, US Cyber Combine athletes will be placed into small groups and assigned three (3) challenges from the Season II, US Cyber Open. Each small group will record a video walk-through of ONE of the challenges assigned, and submit challenge write-ups/ solutions document for ALL challenges assigned.
 
